@@ -2,9 +2,9 @@
 <h3 align="center">A Flask web developer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PyCoder10&label=Profile%20views&color=blue&style=flat-square" alt="PyCoder01" /> </p>
   
-- 👀 I’m interested in Python and Flask
+- 👀 I’m interested in **Python** and **Flask**
 - 🌱 I’m currently learning web development
-- 🔭 I’m currently working on EVRYAPP
+- 🔭 I’m currently working on **EVRYAPP**
 
 <!---
 PyCoder10/PyCoder10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
