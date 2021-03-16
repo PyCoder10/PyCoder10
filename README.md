@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I’m @PyCoder10<h1 align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PyCoder10&label=Profile%20views&color=blue&style=flat-square" alt="PyCoder10" /> </p>
-
+<h1 align="center">Hi, I’m @PyCoder10<h1 align="center"> - <img src="https://komarev.com/ghpvc/?username=PyCoder10&label=Profile%20views&color=blue&style=flat-square" alt="PyCoder10" />
+  
 - 👀 I’m interested in Python and Flask
 - 🌱 I’m currently learning web development
 - 🔭 I’m currently working on EVRYAPP
