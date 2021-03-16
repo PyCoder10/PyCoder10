@@ -1,4 +1,4 @@
-# Hi, I’m @PyCoder10 - ![](https://komarev.com/ghpvc/?username=PyCoder10&color=green)
+<h1 align="center">Hi, I’m @PyCoder10 - ![](https://komarev.com/ghpvc/?username=PyCoder10&color=green)<h1 align="center">
 - 👀 I’m interested in Python and Flask
 - 🌱 I’m currently learning web development
 - 🔭 I’m currently working on EVRYAPP
